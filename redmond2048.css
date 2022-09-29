@@ -50,7 +50,7 @@ h1 {
     padding-right: 1em;
     float: left;
     font-size: x-large; 
-    color: white;
+    color: orange;
 }
 
 #formControls input {
@@ -72,7 +72,7 @@ h1 {
     float: left; 
     text-align: center;
     line-height: 100px;
-    background-color: #DDDDDD; 
+    background-color: #444444; 
     color: #222222; 
     font-size: 75px;
     font-weight: normal;
