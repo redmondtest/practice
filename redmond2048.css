@@ -39,7 +39,7 @@ h1 {
     clear: left; }
 
 #formControls {
-    background: #009466; 
+    background: #AA9466; 
     width: 450px;   
 }
 
@@ -58,7 +58,7 @@ h1 {
     width: 6em;
     float: left;
     font-size: x-large; 
-    color: darkgreen;
+    color: coral;
 }
 
 #formControls br {
